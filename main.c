@@ -342,3 +342,4 @@ void reset(){
     system("cls");
     homepage();
 }
+//전희준 다녀감
